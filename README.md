@@ -1,2 +1,2 @@
 # MS-SQL-Server
-SQL Questions and Answers
+MS SQL Questions and Answers
